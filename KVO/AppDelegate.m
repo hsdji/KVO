@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "mainTableViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -16,7 +16,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+//    self.window.rootViewController = [mainTableViewController new];
+//    [self.window makeKeyWindow];
     return YES;
 }
 

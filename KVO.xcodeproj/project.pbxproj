@@ -16,6 +16,12 @@
 		4BA28DA31D561F35009FAD31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BA28DA11D561F35009FAD31 /* LaunchScreen.storyboard */; };
 		4BA28DAE1D561F36009FAD31 /* KVOTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BA28DAD1D561F36009FAD31 /* KVOTests.m */; };
 		4BA28DB91D561F36009FAD31 /* KVOUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BA28DB81D561F36009FAD31 /* KVOUITests.m */; };
+		4BA28DC81D561F4C009FAD31 /* student.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BA28DC71D561F4C009FAD31 /* student.m */; };
+		4BFD54271D562D6C00BEBA72 /* mainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BFD54261D562D6C00BEBA72 /* mainTableViewController.m */; };
+		4BFD542A1D56337400BEBA72 /* resultTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BFD54291D56337400BEBA72 /* resultTableViewController.m */; };
+		4BFD542D1D564A2200BEBA72 /* AnimatayipnTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BFD542C1D564A2200BEBA72 /* AnimatayipnTableViewController.m */; };
+		4BFD54301D564D5200BEBA72 /* drawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BFD542F1D564D5200BEBA72 /* drawView.m */; };
+		4BFD544F1D565A9C00BEBA72 /* jianpantongzhi.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BFD544E1D565A9C00BEBA72 /* jianpantongzhi.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +59,18 @@
 		4BA28DB41D561F36009FAD31 /* KVOUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KVOUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BA28DB81D561F36009FAD31 /* KVOUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVOUITests.m; sourceTree = "<group>"; };
 		4BA28DBA1D561F36009FAD31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BA28DC61D561F4C009FAD31 /* student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
+		4BA28DC71D561F4C009FAD31 /* student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = student.m; sourceTree = "<group>"; };
+		4BFD54251D562D6C00BEBA72 /* mainTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainTableViewController.h; sourceTree = "<group>"; };
+		4BFD54261D562D6C00BEBA72 /* mainTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainTableViewController.m; sourceTree = "<group>"; };
+		4BFD54281D56337400BEBA72 /* resultTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = resultTableViewController.h; sourceTree = "<group>"; };
+		4BFD54291D56337400BEBA72 /* resultTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = resultTableViewController.m; sourceTree = "<group>"; };
+		4BFD542B1D564A2200BEBA72 /* AnimatayipnTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimatayipnTableViewController.h; sourceTree = "<group>"; };
+		4BFD542C1D564A2200BEBA72 /* AnimatayipnTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnimatayipnTableViewController.m; sourceTree = "<group>"; };
+		4BFD542E1D564D5200BEBA72 /* drawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = drawView.h; sourceTree = "<group>"; };
+		4BFD542F1D564D5200BEBA72 /* drawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = drawView.m; sourceTree = "<group>"; };
+		4BFD544D1D565A9C00BEBA72 /* jianpantongzhi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jianpantongzhi.h; sourceTree = "<group>"; };
+		4BFD544E1D565A9C00BEBA72 /* jianpantongzhi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jianpantongzhi.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,8 +123,20 @@
 			children = (
 				4BA28D931D561F35009FAD31 /* AppDelegate.h */,
 				4BA28D941D561F35009FAD31 /* AppDelegate.m */,
+				4BA28DC61D561F4C009FAD31 /* student.h */,
+				4BA28DC71D561F4C009FAD31 /* student.m */,
 				4BA28D961D561F35009FAD31 /* ViewController.h */,
 				4BA28D971D561F35009FAD31 /* ViewController.m */,
+				4BFD54251D562D6C00BEBA72 /* mainTableViewController.h */,
+				4BFD54261D562D6C00BEBA72 /* mainTableViewController.m */,
+				4BFD544D1D565A9C00BEBA72 /* jianpantongzhi.h */,
+				4BFD544E1D565A9C00BEBA72 /* jianpantongzhi.m */,
+				4BFD542B1D564A2200BEBA72 /* AnimatayipnTableViewController.h */,
+				4BFD542C1D564A2200BEBA72 /* AnimatayipnTableViewController.m */,
+				4BFD542E1D564D5200BEBA72 /* drawView.h */,
+				4BFD542F1D564D5200BEBA72 /* drawView.m */,
+				4BFD54281D56337400BEBA72 /* resultTableViewController.h */,
+				4BFD54291D56337400BEBA72 /* resultTableViewController.m */,
 				4BA28D991D561F35009FAD31 /* Main.storyboard */,
 				4BA28D9F1D561F35009FAD31 /* Assets.xcassets */,
 				4BA28DA11D561F35009FAD31 /* LaunchScreen.storyboard */,
@@ -273,10 +303,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BA28DC81D561F4C009FAD31 /* student.m in Sources */,
+				4BFD542A1D56337400BEBA72 /* resultTableViewController.m in Sources */,
+				4BFD542D1D564A2200BEBA72 /* AnimatayipnTableViewController.m in Sources */,
 				4BA28D9E1D561F35009FAD31 /* KVO.xcdatamodeld in Sources */,
 				4BA28D981D561F35009FAD31 /* ViewController.m in Sources */,
+				4BFD544F1D565A9C00BEBA72 /* jianpantongzhi.m in Sources */,
 				4BA28D951D561F35009FAD31 /* AppDelegate.m in Sources */,
+				4BFD54271D562D6C00BEBA72 /* mainTableViewController.m in Sources */,
 				4BA28D921D561F35009FAD31 /* main.m in Sources */,
+				4BFD54301D564D5200BEBA72 /* drawView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -502,6 +538,7 @@
 				4BA28DBF1D561F36009FAD31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4BA28DC01D561F36009FAD31 /* Build configuration list for PBXNativeTarget "KVOTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +547,7 @@
 				4BA28DC21D561F36009FAD31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4BA28DC31D561F36009FAD31 /* Build configuration list for PBXNativeTarget "KVOUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +556,7 @@
 				4BA28DC51D561F36009FAD31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
