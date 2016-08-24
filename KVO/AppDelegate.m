@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 #import "mainTableViewController.h"
+#import "ViewController.h"
+#import "AnimatayipnTableViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -16,8 +18,16 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-//    self.window.rootViewController = [mainTableViewController new];
-//    [self.window makeKeyWindow];
+    //              searchBar
+    //    self.window.rootViewController = [mainTableViewController new];
+    //    [self.window makeKeyWindow];
+    //              KVO
+    //    self.window.rootViewController = [viewController new];
+    //    [self.window makeKeyWindow];
+    //              Animatation
+    self.window.rootViewController = [AnimatayipnTableViewController new];
+    [self.window makeKeyWindow];
+    
     return YES;
 }
 

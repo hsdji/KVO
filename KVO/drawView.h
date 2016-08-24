@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+/**
+ *     @author xiaofei, 16-08-24 10:08:40
+ *
+ *     @brief 给出一个贝塞尔路径画对用的图。
+ */
 @interface drawView : UIView
 @property (nonatomic,strong)UIBezierPath *path;
 @end

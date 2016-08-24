@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4BA28D8C1D561F35009FAD31"
-               BuildableName = "KVO.app"
-               BlueprintName = "KVO"
-               ReferencedContainer = "container:KVO.xcodeproj">
+               BuildableName = "KVO&amp;Animatation&amp;SearchBar.app"
+               BlueprintName = "KVO&amp;Animatation&amp;SearchBar"
+               ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4BA28DA81D561F36009FAD31"
-               BuildableName = "KVOTests.xctest"
-               BlueprintName = "KVOTests"
-               ReferencedContainer = "container:KVO.xcodeproj">
+               BuildableName = "KVO&amp;Animatation&amp;SearchBar.xctest"
+               BlueprintName = "KVO&amp;Animatation&amp;SearchBarTests"
+               ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4BA28DB31D561F36009FAD31"
-               BuildableName = "KVOUITests.xctest"
-               BlueprintName = "KVOUITests"
-               ReferencedContainer = "container:KVO.xcodeproj">
+               BuildableName = "KVO&amp;Animatation&amp;SearchBar.xctest"
+               BlueprintName = "KVO&amp;Animatation&amp;SearchBarUITests"
+               ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4BA28D8C1D561F35009FAD31"
-            BuildableName = "KVO.app"
-            BlueprintName = "KVO"
-            ReferencedContainer = "container:KVO.xcodeproj">
+            BuildableName = "KVO&amp;Animatation&amp;SearchBar.app"
+            BlueprintName = "KVO&amp;Animatation&amp;SearchBar"
+            ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4BA28D8C1D561F35009FAD31"
-            BuildableName = "KVO.app"
-            BlueprintName = "KVO"
-            ReferencedContainer = "container:KVO.xcodeproj">
+            BuildableName = "KVO&amp;Animatation&amp;SearchBar.app"
+            BlueprintName = "KVO&amp;Animatation&amp;SearchBar"
+            ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4BA28D8C1D561F35009FAD31"
-            BuildableName = "KVO.app"
-            BlueprintName = "KVO"
-            ReferencedContainer = "container:KVO.xcodeproj">
+            BuildableName = "KVO&amp;Animatation&amp;SearchBar.app"
+            BlueprintName = "KVO&amp;Animatation&amp;SearchBar"
+            ReferencedContainer = "container:KVO&amp;Animatation&amp;SearchBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
